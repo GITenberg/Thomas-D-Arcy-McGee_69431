@@ -1,0 +1,41 @@
+_repo: Thomas-D-Arcy-McGee_69431
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brady, Alexander
+    alias: Brady, Alexander David
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '55260'
+    url: http://www.gutenberg.org/2009/agents/55260
+  editor:
+    agent_name: Wallace, W. Stewart (William Stewart)
+    aliases:
+    - Wallace, William Stewart
+    - Wallace, W. S. (William Stewart)
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '4156'
+    url: http://www.gutenberg.org/2009/agents/4156
+    wikipedia: https://en.wikipedia.org/wiki/William_Stewart_Wallace
+description: ''
+gutenberg_issued: '2022-11-27'
+identifiers:
+  gutenberg: '69431'
+  lccn: '25019839'
+language: en
+pgterms:marc905: 20221119191628brady
+pgterms:marc906: '1925'
+pgterms:marc907: CA
+production_note: Al Haines
+publication_note: 'Canada: The Macmillan Company of Canada Limited,1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Canadian statesmen, [no. 2]
+subjects:
+- !lcsh 'McGee, Thomas D''Arcy, 1825-1868'
+- !lcc 'F1001'
+- GITenberg
+title: Thomas D'Arcy McGee
+url: http://www.gutenberg.org/ebooks/69431
